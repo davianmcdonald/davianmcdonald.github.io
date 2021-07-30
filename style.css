@@ -1,0 +1,22 @@
+font-face{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1000;
+}
+
+
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(17, 218, 60);
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+ 
+  .main {
+    margin-left: 200px; 
+  }
